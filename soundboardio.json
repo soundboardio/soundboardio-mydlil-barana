@@ -1,0 +1,184 @@
+{
+  "name": "Mydlil barana",
+  "shortName": "mydlil-barana",
+  "description": "Na spišském podhradí se stala neuvěřitelná událost a byla u toho TV JOJ. Muž si všiml, že se okolo jeho ovcí motá podozrivý chlap. A zrazu... mydlili mu Barana!",
+  "story": [],
+  "color": "#943100",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Sám Život",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "sk",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "583x330",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Na to nezabudne",
+      "filename": "00-nezabudne.mp3",
+      "tags": [
+        "Redaktorka"
+      ]
+    },
+    {
+      "name": "Mne normalne lata z rukú vypadla",
+      "filename": "01-vypadla.mp3",
+      "tags": [
+        "Farmár"
+      ]
+    },
+    {
+      "name": "Nohavice rozepnuté a...",
+      "filename": "02-nohavice.mp3",
+      "tags": [
+        "Farmár"
+      ]
+    },
+    {
+      "name": "Béé",
+      "filename": "03-bee.mp3",
+      "tags": [
+        "Redaktorka"
+      ]
+    },
+    {
+      "name": "Muža na pokon odohnal",
+      "filename": "04-uspokojoval-sa.mp3",
+      "tags": [
+        "Redaktorka"
+      ]
+    },
+    {
+      "name": "Jak mi mydlil barana!",
+      "filename": "05-mydlil.mp3",
+      "tags": [
+        "Farmár"
+      ]
+    },
+    {
+      "name": "Stala se vám škoda? Prcali mi barana",
+      "filename": "06-prcali.mp3",
+      "tags": [
+        "Farmár"
+      ]
+    },
+    {
+      "name": "Čo ste s ním robili?",
+      "filename": "07-co-ste-robili.mp3",
+      "tags": [
+        "Redaktorka"
+      ]
+    },
+    {
+      "name": "Nič také konkrétné",
+      "filename": "08-konkretne.mp3",
+      "tags": [
+        "Pachatel"
+      ]
+    },
+    {
+      "name": "Vraj viděl konkrétné",
+      "filename": "09-neco-konkretne.mp3",
+      "tags": [
+        "Redaktorka"
+      ]
+    },
+    {
+      "name": "Viděť mohol",
+      "filename": "10-videt-mohol.mp3",
+      "tags": [
+        "Pachatel"
+      ]
+    },
+    {
+      "name": "Si mydlil mojoho barana!",
+      "filename": "11-si-mydlil-mojoho-barana.mp3",
+      "tags": [
+        "Farmár"
+      ]
+    },
+    {
+      "name": "Je to tak alebo nie?",
+      "filename": "12-jetotak-alebo-ne.mp3",
+      "tags": [
+        "Farmár"
+      ]
+    },
+    {
+      "name": "Priznaj se!",
+      "filename": "13-priznaj-se.mp3",
+      "tags": [
+        "Farmár"
+      ]
+    },
+    {
+      "name": "Keď on to tak tvrdí",
+      "filename": "14-tvrdi-to.mp3",
+      "tags": [
+        "Pachatel"
+      ]
+    },
+    {
+      "name": "Čo tvrdíte vy?",
+      "filename": "15-co-tvrdite.mp3",
+      "tags": [
+        "Redaktorka"
+      ]
+    },
+    {
+      "name": "Čo by som mal",
+      "filename": "16-co-by-som-mal.mp3",
+      "tags": [
+        "Pachatel"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Mydlil barana",
+      "source": "YouTube",
+      "year": 2013,
+      "url": "https://www.youtube.com/watch?v=fEyj-rXJbNw"
+    }
+  ],
+  "lyrics": [
+    "Barany sa pásli ako zvyčajne na tejto lúke pod hradným kopcom. Ich majiteľ si zrazu všimol, že sa okolo nich motá podozrivý chlap. Keď sa prišiel pozrieť, čo sa deje, zbadal niečo, na čo tak skoro zrejme nezabudne.",
+    "Tu som vybehnul, mne normálne láta z rukov vypadla. Kúkam a hovorim: \"je toto možné?\" A on nohavice rozopnuté a...",
+    "Pán Marian bol z toho, čo videl v šoku, sám nevedel, čo robiť. Muža, ktorý sa vraj uspokojoval na jeho baranovi, napokon odohnal.",
+    "Som mu chycil... po zadku som mu dal, jak mi mydlil barana.",
+    "Policia případ vyšetruje ako priestupok vuči verejnemu poriadku.",
+    "Prišli: \"Stala si vám škoda?\" \"Se nestala, ale prcali mi barana!\"",
+    "Toto bezbranné zviera podľa slov jeho majiteľa sexuálne, zneužil muž, ktoré ho pozná zo susedstva. Stredli sme ho nedaleko miesta, kde sa to všetko malo odohrať.",
+    "Čo sta s ním robili?",
+    "Nič také konkrétne.",
+    "Ale on že vraj videl niečo konkrétne.",
+    "No, to... vidieť mohol.",
+    "Či mydlil môjho barana. Je to tak alebo nie?",
+    "Teraz rečuť, priznaj se!",
+    "Je to pravda?",
+    "No, však on to tak tvrdí, no tak...",
+    "Čo tvrdíte vy?",
+    "Čo by som mal...?",
+    "Podozrivého, muža policajti vypočuli a ten sa ke skutku priznal.",
+    "Je to normálne? Ked on nabrá naše zlá komy.",
+    "To také, dzivčátko?",
+    "Zo Spišského podhradia pre televíziu Joj Daniela Jureková."
+  ]
+}
