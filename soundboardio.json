@@ -3,8 +3,8 @@
   "shortName": "mydlil-barana",
   "description": "Nič také konkrétne…",
   "story": [
-    "Na spišském podhradí se stala neuvěřitelná událost a byla u toho TV JOJ, která vytvořila tuto reportáž. Muž si všiml, že se okolo jeho ovcí motá podozrivý chlap.",
-    "A zrazu… mydlili mu Barana!"
+    "Ve Spišském Podhradí se stala neuvěřitelná událost a byla u toho TV JOJ, která vytvořila tuto reportáž. Muž si všiml, že se okolo jeho ovcí motá podezřelý chlap.",
+    "A zrazu… mydlil mu barana!"
   ],
   "color": "#616161",
   "rootUrl": "sounds/",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Mne normalne lata z rukov vypadla",
+      "name": "Mne normálne láta z rukov vypadla",
       "filename": "01-vypadla.mp3",
       "tags": [
         "Farmár"
@@ -161,7 +161,7 @@
       "url": "https://www.youtube.com/watch?v=fEyj-rXJbNw"
     },
     {
-      "name": "Kingdome Come Deliverance 2: Easter Egg - Mydlil barana",
+      "name": "Kingdom Come: Deliverance II – easter egg Mydlil barana",
       "source": "YouTube",
       "year": 2025,
       "url": "https://www.youtube.com/watch?v=IotghgnX8v0"
@@ -170,12 +170,12 @@
   "lyrics": [
     "Barany sa pásli ako zvyčajne na tejto lúke pod hradným kopcom. Ich majiteľ si zrazu všimol, že sa okolo nich motá podozrivý chlap. Keď sa prišiel pozrieť, čo sa deje, zbadal niečo, na čo tak skoro zrejme nezabudne.",
     "Tu som vybehnul, mne normálne láta z rukov vypadla. Kúkam a hovorim: \"je toto možné?\" A on nohavice rozopnuté a…",
-    "Pán Marian bol z toho, čo videl v šoku, sám nevedel, čo robiť. Muža, ktorý sa vraj uspokojoval na jeho baranovi, napokon odohnal.",
+    "Pán Marian bol z toho, čo videl, v šoku, sám nevedel, čo robiť. Muža, ktorý sa vraj uspokojoval na jeho baranovi, napokon odohnal.",
     "Som mu chycil… po zadku som mu dal, jak mi mydlil barana.",
-    "Policia případ vyšetruje ako priestupok vuči verejnemu poriadku.",
+    "Polícia prípad vyšetruje ako priestupok voči verejnému poriadku.",
     "Prišli: \"Stala si vám škoda?\" \"Se nestala, ale prcali mi barana!\"",
-    "Toto bezbranné zviera podľa slov jeho majiteľa sexuálne, zneužil muž, ktoré ho pozná zo susedstva. Stredli sme ho nedaleko miesta, kde sa to všetko malo odohrať.",
-    "Čo sta s ním robili?",
+    "Toto bezbranné zviera podľa slov jeho majiteľa sexuálne zneužil muž, ktorého pozná zo susedstva. Stretli sme ho nedaleko miesta, kde sa to všetko malo odohrať.",
+    "Čo ste s ním robili?",
     "Nič také konkrétne.",
     "Ale on že vraj videl niečo konkrétne.",
     "No, to… vidieť mohol.",
@@ -185,9 +185,9 @@
     "No, však on to tak tvrdí, no tak…",
     "Čo tvrdíte vy?",
     "Čo by som mal…?",
-    "Podozrivého, muža policajti vypočuli a ten sa ke skutku priznal.",
+    "Podozrivého muža policajti vypočuli a ten sa ku skutku priznal.",
     "Je to normálne? Ked on nabrá naše zlá komy.",
     "To také, dzivčátko?",
-    "Zo Spišského podhradia pre televíziu Joj Daniela Jureková."
+    "Zo Spišského Podhradia pre televíziu JOJ Daniela Jureková."
   ]
 }
