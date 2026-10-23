@@ -45,21 +45,24 @@
       "filename": "00-nezabudne.mp3",
       "tags": [
         "Redaktorka"
-      ]
+      ],
+      "transcript": "Keď sa prišiel pozrieť, čo sa deje, zbadal niečo, na čo tak skoro zrejme nezabudne"
     },
     {
       "name": "Mne normálne láta z rukov vypadla",
       "filename": "01-vypadla.mp3",
       "tags": [
         "Farmár"
-      ]
+      ],
+      "transcript": "mne normálne láta z rukov vypadla"
     },
     {
       "name": "Nohavice rozopnuté a…",
       "filename": "02-nohavice.mp3",
       "tags": [
         "Farmár"
-      ]
+      ],
+      "transcript": "A on nohavice rozopnuté a…"
     },
     {
       "name": "Béé",
@@ -73,91 +76,104 @@
       "filename": "04-uspokojoval-sa.mp3",
       "tags": [
         "Redaktorka"
-      ]
+      ],
+      "transcript": "Muža, ktorý sa vraj uspokojoval na jeho baranovi, napokon odohnal."
     },
     {
       "name": "Jak mi mydlil barana!",
       "filename": "05-mydlil.mp3",
       "tags": [
         "Farmár"
-      ]
+      ],
+      "transcript": "po zadku som mu dal, jak mi mydlil barana"
     },
     {
       "name": "Stala še vam škoda? Prcali mi barana",
       "filename": "06-prcali.mp3",
       "tags": [
         "Farmár"
-      ]
+      ],
+      "transcript": "\"Stala si vám škoda?\" \"Se nestala, ale prcali mi barana!\""
     },
     {
       "name": "Čo ste s ním robili?",
       "filename": "07-co-ste-robili.mp3",
       "tags": [
         "Redaktorka"
-      ]
+      ],
+      "transcript": "Čo ste s ním robili?"
     },
     {
       "name": "Nič také konkrétne",
       "filename": "08-konkretne.mp3",
       "tags": [
         "Pachatel"
-      ]
+      ],
+      "transcript": "Nič také konkrétne."
     },
     {
       "name": "Vraj videl niečo konkrétne",
       "filename": "09-neco-konkretne.mp3",
       "tags": [
         "Redaktorka"
-      ]
+      ],
+      "transcript": "Ale on že vraj videl niečo konkrétne."
     },
     {
       "name": "Vidieť mohol",
       "filename": "10-videt-mohol.mp3",
       "tags": [
         "Pachatel"
-      ]
+      ],
+      "transcript": "vidieť mohol"
     },
     {
       "name": "Ši mydlil mojho barana!",
       "filename": "11-si-mydlil-mojoho-barana.mp3",
       "tags": [
         "Farmár"
-      ]
+      ],
+      "transcript": "Či mydlil môjho barana."
     },
     {
       "name": "Je to tak alebo ne?",
       "filename": "12-jetotak-alebo-ne.mp3",
       "tags": [
         "Farmár"
-      ]
+      ],
+      "transcript": "Je to tak alebo nie?"
     },
     {
       "name": "Priznaj še!",
       "filename": "13-priznaj-se.mp3",
       "tags": [
         "Farmár"
-      ]
+      ],
+      "transcript": "Teraz rečuť, priznaj se"
     },
     {
       "name": "Keď on to tak tvrdí",
       "filename": "14-tvrdi-to.mp3",
       "tags": [
         "Pachatel"
-      ]
+      ],
+      "transcript": "No, však on to tak tvrdí, no tak"
     },
     {
       "name": "Čo tvrdíte vy?",
       "filename": "15-co-tvrdite.mp3",
       "tags": [
         "Redaktorka"
-      ]
+      ],
+      "transcript": "Čo tvrdíte vy?"
     },
     {
       "name": "Čom by som mal",
       "filename": "16-co-by-som-mal.mp3",
       "tags": [
         "Pachatel"
-      ]
+      ],
+      "transcript": "Čo by som mal…?"
     }
   ],
   "references": [
